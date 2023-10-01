@@ -1,2 +1,2 @@
 this is file2
-file2:main:append:merge_conflict
+file2:main:append:merge_conflict=====file2:append:dev
