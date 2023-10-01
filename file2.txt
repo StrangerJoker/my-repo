@@ -1,1 +1,2 @@
 this is file2
+file2:main:append:merge_conflict
